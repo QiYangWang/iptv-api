@@ -55,5 +55,3 @@ def process_log(input_file, output_file):
             f.write(extinf_line)
             f.write(data['url'] + '\n')
 
-# 使用示例
-process_log('output/sort.log', 'output/final_result.m3u')
