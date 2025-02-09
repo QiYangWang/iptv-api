@@ -5,7 +5,11 @@ from time import time
 
 from tqdm import tqdm
 
+
+
 import utils.constants as constants
+
+from tools.final_sort import process_log
 from service.app import run_service
 from updates.fofa import get_channels_by_fofa
 from updates.hotel import get_channels_by_hotel
@@ -219,3 +223,4 @@ if __name__ == "__main__":
     asyncio.set_event_loop(loop)
     update_source = UpdateSource()
     loop.run_until_complete(update_source.start())
+    process_log('output/sort.log', 'output/final_result.m3u')
