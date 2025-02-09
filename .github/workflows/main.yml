@@ -99,7 +99,7 @@ jobs:
           fi
           if [[ -f "output/final_result.m3u" ]]; then
             git add -f "output/final_result.m3u"
-          
+          fi
           if [[ -f "updates/fofa/fofa_hotel_region_result.pkl" ]]; then
             git add -f "updates/fofa/fofa_hotel_region_result.pkl"
           fi
