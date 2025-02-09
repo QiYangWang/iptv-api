@@ -20,12 +20,27 @@ def process_log(input_file, output_file):
                 url = re.sub(r'\$.*', '', url).strip()
 
                 # 过滤掉 Delay 为 -1ms 或 Speed 为 inf M/s，或者分辨率不符合要求
-                if delay != "-1 ms" and speed != "inf M/s" and (resolution == "1920x1080" or resolution == "None"):
-                    # 将Speed转为数字进行比较
+                if delay != "-1 ms" and (speed != "inf M/s") and (resolution == "1920x1080" or resolution == "None"):
+                    # 将 Delay 转为数字进行比较，单位是 ms
+                    try:
+                        delay_value = int(re.search(r'(\d+)', delay).group(1))  # 提取数字部分并转换为整数
+                    except ValueError:
+                        print(f"Skipping invalid Delay: {delay}")  # 如果转换失败，跳过
+                        continue
+                    
+                    # 只保留 Delay 小于 500 ms 的条目
+                    if delay_value >= 500:
+                        continue
+                    
+                    # 将Speed转为数字进行比较，单位是 M/s
                     try:
                         speed_value = float(speed.split()[0])  # 只取 Speed 的数值部分
                     except ValueError:
                         print(f"Skipping invalid Speed: {speed}")  # 如果转换失败，跳过
+                        continue
+                    
+                    # 只保留 Speed 小于等于 10 M/s 的条目
+                    if speed_value > 10:
                         continue
                     
                     # 如果该 Name 已经存在，检查并更新最大Speed
