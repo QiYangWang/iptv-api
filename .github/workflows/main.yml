@@ -82,7 +82,8 @@ jobs:
           final_useful_file=$(python -c '
           from utils.final_sort import process_log
           import os
-          process_log(output/sort.log', 'output/final_result.m3u)')
+          process_log("output/sort.log", "output/final_result.m3u")')
+
           
           if [[ -f "$final_file" ]]; then
             git add -f "$final_file"
