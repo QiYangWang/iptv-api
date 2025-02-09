@@ -2,7 +2,6 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22 * * *'
     - cron: '0 10 * * *'
   workflow_dispatch:
     branches:
@@ -79,6 +78,12 @@ jobs:
           except: 
             final_m3u_file = "output/result.m3u"
           print(final_m3u_file)')
+          
+          final_useful_file=$(python -c '
+          from utils.final_sort import process_log
+          import os
+          process_log(output/sort.log', 'output/final_result.m3u)')
+          
           if [[ -f "$final_file" ]]; then
             git add -f "$final_file"
           fi
@@ -91,6 +96,9 @@ jobs:
           if [[ -f "output/sort.log" ]]; then
             git add -f "output/sort.log"
           fi
+          if [[ -f "output/final_result.m3u" ]]; then
+            git add -f "output/final_result.m3u"
+          
           if [[ -f "updates/fofa/fofa_hotel_region_result.pkl" ]]; then
             git add -f "updates/fofa/fofa_hotel_region_result.pkl"
           fi
