@@ -56,7 +56,7 @@ def process_log(input_file, output_file):
     # 将筛选和排序后的数据写入输出文件
     with open(output_file, 'w', encoding='utf-8') as f:
         # 在文件的第一行添加特定的元数据行
-        f.write('#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"\n')
+        f.write('#EXTM3U x-tvg-url="http://47.109.38.200/iptv/iptv.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"\n')
 
         for name, data in logs.items():
             # 将 "CCTV-1" 改为 "CCTV1"
