@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-28 06:30:05,http://tvbox6.icu/tv/migu.php?id=cctv1
+2025-02-28 18:29:18,http://tvbox6.icu/tv/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://tvbox6.icu/tv/migu.php?id=cctv1
@@ -33,7 +33,7 @@ CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
 东南卫视,http://120.192.226.35:8009/hls/45/index.m3u8
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
@@ -50,8 +50,8 @@ CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 山西卫视,http://120.192.226.35:8009/hls/49/index.m3u8
 陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws
 四川卫视,http://120.192.226.35:8009/hls/41/index.m3u8
-深圳卫视,http://120.192.226.35:8009/hls/37/index.m3u8
-三沙卫视,http://home.wwang.pw:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+三沙卫视,http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
 天津卫视,http://120.192.226.35:8009/hls/44/index.m3u8
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
