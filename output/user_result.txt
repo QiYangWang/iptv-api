@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-03 06:27:07,http://tvbox6.icu/tv/migu.php?id=cctv1
+2025-03-03 18:28:18,http://tvbox6.icu/tv/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://tvbox6.icu/tv/migu.php?id=cctv1
@@ -18,22 +18,22 @@ CCTV-12,http://tvbox6.icu/tv/migu.php?id=cctv12
 CCTV-13,http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
-CCTV-16,http://lt.hxtre.com:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV-16,http://107.173.199.222:35455/gaoma/cctv16.m3u8
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 
 📡卫视频道,#genre#
 广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-浙江卫视,http://cssbyd.imwork.net:8082/hls/22/index.m3u8
+浙江卫视,http://183.94.1.118:8801/tsfile/live/0124_1.m3u8
 湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws
-北京卫视,http://60.223.224.176:8888/newlive/live/hls/18/live.m3u8
+北京卫视,http://110.53.52.63:8888/newlive/live/hls/18/live.m3u8
 湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
-黑龙江卫视,http://36.105.100.208:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
-安徽卫视,http://xxx.504900.xyz:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+黑龙江卫视,http://110.53.52.63:8888/newlive/live/hls/44/live.m3u8
+安徽卫视,http://183.94.1.118:8801/tsfile/live/0130_1.m3u8
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
-东南卫视,http://lt.hxtre.com:35455/itv/1000000002000009263.m3u8?cdn=ystenlive
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+东南卫视,http://183.94.1.118:8801/tsfile/live/0137_1.m3u8
+甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
@@ -52,9 +52,10 @@ CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 四川卫视,http://120.238.94.10:9901/tsfile/live/1058_1.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-天津卫视,http://www.xzbn.site:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
 云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws
 
 🎥咪咕直播,#genre#
+咪咕直播1,http://home.wwang.pw:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
