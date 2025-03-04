@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-04 06:26:24,http://tvbox6.icu/tv/migu.php?id=cctv1
+2025-03-04 18:29:28,http://tvbox6.icu/tv/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://tvbox6.icu/tv/migu.php?id=cctv1
@@ -18,26 +18,26 @@ CCTV-12,http://tvbox6.icu/tv/migu.php?id=cctv12
 CCTV-13,http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
-CCTV-16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
+CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 
 📡卫视频道,#genre#
 广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-浙江卫视,http://120.192.226.35:8009/hls/34/index.m3u8
+浙江卫视,http://42.48.105.224:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws
-北京卫视,http://120.192.226.35:8009/hls/35/index.m3u8
+北京卫视,http://42.48.105.224:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
-黑龙江卫视,http://120.192.226.35:8009/hls/38/index.m3u8
-安徽卫视,http://120.192.226.35:8009/hls/42/index.m3u8
+黑龙江卫视,http://42.48.105.224:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://42.48.105.224:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
-东南卫视,http://120.192.226.35:8009/hls/45/index.m3u8
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+东南卫视,http://42.48.105.224:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
-河北卫视,http://120.192.226.35:8009/hls/55/index.m3u8
+河北卫视,http://42.48.105.224:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://tvbox6.icu/tv/migu.php?id=hnws
 吉林卫视,http://tvbox6.icu/tv/migu.php?id=jlws
 江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws
@@ -49,10 +49,10 @@ CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 山东卫视,http://tvbox6.icu/tv/migu.php?id=sdws
 山西卫视,http://120.192.226.35:8009/hls/49/index.m3u8
 陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws
-四川卫视,http://120.192.226.35:8009/hls/41/index.m3u8
+四川卫视,http://42.48.105.224:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-天津卫视,http://120.192.226.35:8009/hls/44/index.m3u8
+三沙卫视,http://113.140.86.162:8009/hls/44/index.m3u8
+天津卫视,http://42.48.105.224:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
 云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws
