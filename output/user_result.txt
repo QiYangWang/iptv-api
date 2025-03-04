@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-04 18:29:28,http://tvbox6.icu/tv/migu.php?id=cctv1
+2025-03-05 06:26:45,http://tvbox6.icu/tv/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://tvbox6.icu/tv/migu.php?id=cctv1
@@ -18,7 +18,7 @@ CCTV-12,http://tvbox6.icu/tv/migu.php?id=cctv12
 CCTV-13,http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-14,http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
-CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV-16,http://39.170.52.236:808/hls/16/index.m3u8
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 
 📡卫视频道,#genre#
@@ -33,7 +33,7 @@ CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
 东南卫视,http://42.48.105.224:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
+甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
@@ -47,7 +47,7 @@ CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
 宁夏卫视,http://tvbox6.icu/tv/migu.php?id=nxws
 青海卫视,http://tvbox6.icu/tv/migu.php?id=qhws
 山东卫视,http://tvbox6.icu/tv/migu.php?id=sdws
-山西卫视,http://120.192.226.35:8009/hls/49/index.m3u8
+山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws
 四川卫视,http://42.48.105.224:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
