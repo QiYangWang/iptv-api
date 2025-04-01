@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2025-04-01 18:28:35,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-04-02 06:24:31,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-2,http://58.243.224.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://112.46.85.60:8009/hls/3/index.m3u8
+CCTV-3,http://110.53.52.63:8888/newlive/live/hls/4/live.m3u8
 CCTV-4,http://58.243.224.244:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8
+CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,http://110.53.52.63:8888/newlive/live/hls/7/live.m3u8
 CCTV-6,http://110.53.52.63:8888/newlive/live/hls/8/live.m3u8
-CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV-8,http://112.46.85.60:8009/hls/8/index.m3u8
+CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV-8,http://110.53.52.63:8888/newlive/live/hls/10/live.m3u8
 CCTV-9,http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://58.243.224.244:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://58.243.224.244:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -48,7 +48,7 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 青海卫视,http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8
 山东卫视,http://58.243.224.244:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-陕西卫视,http://112.46.85.60:808/hls/17/index.m3u8
+陕西卫视,http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 四川卫视,http://58.243.224.244:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 三沙卫视,http://58.243.224.244:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
