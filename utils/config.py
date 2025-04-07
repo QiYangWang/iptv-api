@@ -290,8 +290,8 @@ class ConfigManager:
 
     @property
     def open_driver(self):
-        return not os.environ.get("LITE") and self.config.getboolean(
-            "Settings", "open_driver", fallback=True
+        return self.config.getboolean(
+            "Settings", "open_driver", fallback=False
         )
 
     @property
@@ -309,6 +309,10 @@ class ConfigManager:
     @property
     def open_empty_category(self):
         return self.config.getboolean("Settings", "open_empty_category", fallback=True)
+
+    @property
+    def app_host(self):
+        return os.environ.get("APP_HOST") or self.config.get("Settings", "app_host", fallback="http://localhost")
 
     @property
     def app_port(self):
