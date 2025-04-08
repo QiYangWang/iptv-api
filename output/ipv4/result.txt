@@ -1,21 +1,21 @@
 🕘️更新时间,#genre#
-2025-04-08 18:27:51,http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+2025-04-09 06:26:33,http://112.46.85.60:8009/hls/501/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-2,http://58.243.224.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,http://112.46.85.60:8009/hls/501/index.m3u8
+CCTV-2,http://112.46.85.60:8009/hls/502/index.m3u8
 CCTV-3,http://112.46.85.60:8009/hls/3/index.m3u8
-CCTV-4,http://58.243.224.244:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8
+CCTV-4,http://112.46.85.60:8009/hls/4/index.m3u8
+CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,http://39.170.52.236:808/hls/18/index.m3u8
 CCTV-6,http://39.170.52.236:808/hls/6/index.m3u8
 CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-8,http://112.46.85.60:8009/hls/8/index.m3u8
-CCTV-9,http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,http://112.46.85.60:8009/hls/509/index.m3u8
 CCTV-10,http://58.243.224.244:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://58.243.224.244:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-12,http://58.243.224.244:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-13,http://110.81.206.138:49231/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://112.46.85.60:8009/hls/507/index.m3u8
+CCTV-13,http://39.170.52.236:808/hls/13/index.m3u8
 CCTV-14,http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15,http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-16,http://39.170.52.236:808/hls/16/index.m3u8
@@ -47,7 +47,7 @@ CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0
 宁夏卫视,http://58.243.224.244:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=qhws
 山东卫视,http://58.243.224.244:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
+山西卫视,http://120.238.94.10:9901/tsfile/live/1071_1.m3u8
 陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
 四川卫视,http://58.243.224.244:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
