@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-06 18:23:35,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+2025-05-07 06:15:02,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
